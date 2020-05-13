@@ -1,0 +1,6 @@
+use_frameworks!
+source 'https://github.com/CocoaPods/Specs'
+
+target 'YYYMessageSend' do
+  pod 'YYYMessageSend', :path => '../'
+end

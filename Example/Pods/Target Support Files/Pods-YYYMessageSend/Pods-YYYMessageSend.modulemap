@@ -1,0 +1,6 @@
+framework module Pods_YYYMessageSend {
+  umbrella header "Pods-YYYMessageSend-umbrella.h"
+
+  export *
+  module * { export * }
+}

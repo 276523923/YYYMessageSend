@@ -1,0 +1,16 @@
+PODS:
+  - YYYMessageSend (1.0.1)
+
+DEPENDENCIES:
+  - YYYMessageSend (from `../`)
+
+EXTERNAL SOURCES:
+  YYYMessageSend:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YYYMessageSend: 3c3b47726c4bf9e8057f0c5a89aa49c29aa56e7e
+
+PODFILE CHECKSUM: 6d10bc425d44829d8fc19e3a271a0d7ad4dc9250
+
+COCOAPODS: 1.6.0.beta.2

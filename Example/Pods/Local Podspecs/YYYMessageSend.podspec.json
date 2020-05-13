@@ -1,0 +1,24 @@
+{
+  "name": "YYYMessageSend",
+  "version": "1.0.1",
+  "summary": "YYYMessageSend",
+  "description": "this is YYYMessageSend",
+  "homepage": "https://gitlab.com/276523923/YYYMessageSend.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "276523923@qq.com": "yyyue@vip.qq.com"
+  },
+  "source": {
+    "git": "git@gitlab.com:276523923/YYYMessageSend.git",
+    "tag": "1.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "YYYMessageSend/Classes/**/*.{h,m}",
+  "public_header_files": "YYYMessageSend/Classes/**/*.h"
+}
